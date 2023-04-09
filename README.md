@@ -1,6 +1,6 @@
 # Image Denoising Method based on Deep Learning using Improved U-net
 
-한재욱, 최진원, 이창우  
+[한재욱](https://github.com/Jaeukhan), [최진원](https://github.com/Kelly-Chui), [이창우](https://ice.catholic.ac.kr/front/profintroview.do?cmsDirPkid=4016&cmsLocalPkid=0&rSiteGubun=105&menuLang=E&searchSustCd=M230000361&searchPosiFg=10&searchPersNo=209710256)  
 가톨릭대학교 정보통신전자공학부
 
 - [페이퍼 원문](https://paper.cricit.kr/user/listview/ieie2018/cart_rdoc.asp?URL=files/ieietspc_202108_001.pdf%3Fnum%3D408033%26db%3DRD_R&dn=408033&db=RD_R&usernum=0&seid=)
